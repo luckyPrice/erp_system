@@ -20,23 +20,20 @@ IDURAR is Open Source ERP / CRM (Invoice / Quote / Accounting ) Based on Advance
 
 
 
-## Features :
+기능:
 
-Invoice Management
+송장 관리
 
-Payment Management
+결제 관리
 
-Quote Management
+견적 관리
 
-Customer Management
+고객 관리
 
-Ant Design Framework(AntD) 🐜
+Ant Design 프레임워크(AntD) 🐜
+MERN 스택(Node.js / Express.js / MongoDb / React.js) 기반 👨‍💻
 
-Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
-
-### May i can use IDURAR for Commercial use :
-
-- Yes You can use IDURAR for free for personal or Commercial use.
+ IDURAR는 개인 및 상업적 용도로 무료로 사용가능능
 
 ## Our Sponsors
 
